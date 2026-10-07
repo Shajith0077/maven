@@ -4,11 +4,11 @@
     <p>Please fill in this form</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter your Name</b></label>
     <input type="text" placeholder="Enter Names" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter your mobile</b></label>
     <input type="text" placeholder="Enter number" name="mobile" id="mobile" required>
     <br>
 
